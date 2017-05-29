@@ -15,6 +15,7 @@
 		4E5AB36D1EDC7FD20068C486 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4E5AB36B1EDC7FD20068C486 /* LaunchScreen.storyboard */; };
 		4E5AB3781EDC7FD20068C486 /* Drink_App_PrototypeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E5AB3771EDC7FD20068C486 /* Drink_App_PrototypeTests.swift */; };
 		4E5AB3831EDC7FD20068C486 /* Drink_App_PrototypeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E5AB3821EDC7FD20068C486 /* Drink_App_PrototypeUITests.swift */; };
+		4E5AB3911EDC87460068C486 /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E5AB3901EDC87460068C486 /* File.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		4E5AB37E1EDC7FD20068C486 /* Drink App PrototypeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Drink App PrototypeUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4E5AB3821EDC7FD20068C486 /* Drink_App_PrototypeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Drink_App_PrototypeUITests.swift; sourceTree = "<group>"; };
 		4E5AB3841EDC7FD20068C486 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4E5AB3901EDC87460068C486 /* File.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				4E5AB3691EDC7FD20068C486 /* Assets.xcassets */,
 				4E5AB36B1EDC7FD20068C486 /* LaunchScreen.storyboard */,
 				4E5AB36E1EDC7FD20068C486 /* Info.plist */,
+				4E5AB3901EDC87460068C486 /* File.swift */,
 			);
 			path = "Drink App Prototype";
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4E5AB3651EDC7FD10068C486 /* SecondViewController.swift in Sources */,
+				4E5AB3911EDC87460068C486 /* File.swift in Sources */,
 				4E5AB3611EDC7FD10068C486 /* AppDelegate.swift in Sources */,
 				4E5AB3631EDC7FD10068C486 /* FirstViewController.swift in Sources */,
 			);
